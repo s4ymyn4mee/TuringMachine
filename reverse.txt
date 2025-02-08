@@ -1,0 +1,6 @@
+2
+start stop
+3
+(1, start) -> (0, start, >)
+(0, start) -> (1, start, >)
+(_, start) -> (_, stop, .)
